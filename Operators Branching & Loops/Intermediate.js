@@ -10,3 +10,14 @@ for (var i=1; i <= 100; i++) {
     else
         console.log(i);
 }
+
+//Print the following star pattern :-
+// *
+// * *
+// * * *
+// * * * *
+// * * * * *
+
+for(var i=1; i<=5; i++){
+    console.log("*".repeat(i));
+ }
